@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\TIMO-ITOG\timo-itog\decision\bin\Debug\net8.0\decision.exe
+C:\Users\User\Desktop\TIMO-ITOG\timo-itog\decision\bin\Debug\net8.0\decision.deps.json
+C:\Users\User\Desktop\TIMO-ITOG\timo-itog\decision\bin\Debug\net8.0\decision.runtimeconfig.json
+C:\Users\User\Desktop\TIMO-ITOG\timo-itog\decision\bin\Debug\net8.0\decision.dll
+C:\Users\User\Desktop\TIMO-ITOG\timo-itog\decision\bin\Debug\net8.0\decision.pdb
+C:\Users\User\Desktop\TIMO-ITOG\timo-itog\decision\obj\Debug\net8.0\decision.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TIMO-ITOG\timo-itog\decision\obj\Debug\net8.0\decision.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TIMO-ITOG\timo-itog\decision\obj\Debug\net8.0\decision.AssemblyInfo.cs
+C:\Users\User\Desktop\TIMO-ITOG\timo-itog\decision\obj\Debug\net8.0\decision.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TIMO-ITOG\timo-itog\decision\obj\Debug\net8.0\decision.sourcelink.json
+C:\Users\User\Desktop\TIMO-ITOG\timo-itog\decision\obj\Debug\net8.0\decision.dll
+C:\Users\User\Desktop\TIMO-ITOG\timo-itog\decision\obj\Debug\net8.0\refint\decision.dll
+C:\Users\User\Desktop\TIMO-ITOG\timo-itog\decision\obj\Debug\net8.0\decision.pdb
+C:\Users\User\Desktop\TIMO-ITOG\timo-itog\decision\obj\Debug\net8.0\decision.genruntimeconfig.cache
+C:\Users\User\Desktop\TIMO-ITOG\timo-itog\decision\obj\Debug\net8.0\ref\decision.dll
